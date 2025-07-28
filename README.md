@@ -14,9 +14,37 @@ ANFIS Regression Model"**
 
 The work is implemented as a Kaggle notebook available [here](https://www.kaggle.com/code/gamzeakkurt/optimal-gasoline-price-predictions-anfis-model).
 
+Certainly! Here's a polished and clear version of your **Dataset** section:
+
+---
+
 ## Dataset
 
-The dataset includes historical gasoline prices and associated economic indicators (describe dataset briefly or link to source if applicable).
+The dataset used in this study is sourced from the **U.S. Energy Information Administration (EIA)** and contains weekly U.S. retail gasoline prices (in dollars per gallon) across all grades and formulations.
+
+### 🗓️ Time Span
+
+* **Start Date:** April 5, 1993
+* **End Date:** July 31, 2023
+* **Total Samples:** 1,583 weekly observations
+
+### 📈 Data Characteristics
+
+* **Frequency:** Weekly (one observation per week)
+* **Unit:** U.S. Dollars per Gallon
+* **Type:** Univariate time series (only price data considered)
+* **Coverage:** Nationwide U.S. average prices encompassing all gasoline grades and formulations
+
+This dataset captures both long-term historical trends and short-term fluctuations in gasoline prices, making it well-suited for time series modeling and predictive analytics.
+
+### 📎 Note
+
+The dataset is publicly available from the U.S. EIA website and can be accessed here:
+[https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET\&s=EMM\_EPM0\_PTE\_NUS\_DPG\&f=W](https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMM_EPM0_PTE_NUS_DPG&f=W)
+
+
+
+
 
 ## Features
 
