@@ -14,9 +14,6 @@ ANFIS Regression Model"**
 
 The work is implemented as a Kaggle notebook available [here](https://www.kaggle.com/code/gamzeakkurt/optimal-gasoline-price-predictions-anfis-model).
 
-Certainly! Here's a polished and clear version of your **Dataset** section:
-
----
 
 ## Dataset
 
